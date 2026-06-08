@@ -1,5 +1,5 @@
 ```markdown
-# 🧠 Dual-Brain Edge Intelligence for Energy-Efficient Home Automation
+#  Dual-Brain Edge Intelligence for Energy-Efficient Home Automation
 
 [![Python 3.11](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/downloads/release/python-3110/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.2.0-ee4c2c.svg)](https://pytorch.org/)
@@ -12,7 +12,7 @@ This system resolves the "Comfort Penalty," cloud latency, and data fragmentatio
 
 ---
 
-## 🏗️ System Architecture: The Dual-Hub Approach
+## System Architecture: The Dual-Hub Approach
 
 To overcome the computational limits of edge hardware, this codebase is strictly physically decoupled into two operational environments:
 
